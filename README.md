@@ -58,7 +58,7 @@ void vigenere(char text[], const char key[], int encrypt) {
 }
 
 int main() {
-    char message[] = "SECURITYLABORATORY";
+    char message[] = "RISHI";
     char key[] = "KEY";
 
     // Encrypt
@@ -75,8 +75,7 @@ int main() {
 
 ## OUTPUT
 
-<img width="1772" height="906" alt="image" src="https://github.com/user-attachments/assets/76eb37a5-a777-40c9-a4f9-8b84f73670b8" />
-
+<img width="1721" height="920" alt="image" src="https://github.com/user-attachments/assets/37f291ce-ec61-4799-89f5-1aa3de7db6e9" />
 
 ## RESULT
 To implement the Vigenere Cipher substitution technique using C program is implemented successfully
